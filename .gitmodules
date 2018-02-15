@@ -1,0 +1,15 @@
+[submodule "sticky-ws-cxf"]
+	path = sticky-ws-cxf
+	url = git@github.com:StickySource/sticky-ws-cxf.git
+[submodule "sticky-ws-testutils"]
+	path = sticky-ws-testutils
+	url = git@github.com:StickySource/sticky-ws-testutils
+[submodule "sticky-ws-cxf-guice3"]
+	path = sticky-ws-cxf-guice3
+	url = git@github.com:StickySource/sticky-ws-cxf-guice3
+[submodule "sticky-ws-cxf-spring3"]
+	path = sticky-ws-cxf-spring3
+	url = git@github.com:StickySource/sticky-ws-cxf-spring3
+[submodule "sticky-coercion-ws"]
+	path = sticky-coercion-ws
+	url = git@github.com:StickySource/sticky-coercion-ws
